@@ -1,0 +1,29 @@
+
+body {
+    margin: 100;
+    padding: 100;
+    font-family: Georgia, 'Times New Roman', Times, serif, sans-serif;
+    font-size: 20px;
+    color: #023e8a;
+    background-color: #d9d9d9;
+}
+     nav{
+      background-color: #38b000;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      font-size: 15px;
+      text-align: justify;
+    
+    }
+
+button {
+    color: #023e8a;
+
+}
+
+header {
+    background-color: #d9d9d9
+    background-size: cover;
+    color: #023e8a; /* Cor do texto no cabeçalho */
+    text-align: center;
+    padding: 200px 200; /* Ajuste conforme necessário */
+}
